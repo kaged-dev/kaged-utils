@@ -1,7 +1,7 @@
 {
 	"name": "@kaged/utils",
 	"description": "Shared foundation utilities — fs guards, type guards, formatting, async/stream helpers, Snowflake IDs, fetch-retry, rotating logger, XDG dirs, and more",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "AGPL-3.0",
 	"repository": {
 		"type": "git",
